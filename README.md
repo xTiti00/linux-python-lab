@@ -15,3 +15,13 @@ My first Linux topics:
 - Files and directories
 - Permissions
 - Processes
+
+## Development evironment
+
+- OS: Windows
+- Editor: Visual Studio Code
+- Version control: Git and Github
+
+## Current focus
+
+Learning Git, Linux, Python and API development
