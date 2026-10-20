@@ -7,3 +7,11 @@ Hands-on Linux, Python and API learning projects.
 - Git and GitHub
 - Python scripting
 - API development
+
+## Linux practice
+
+My first Linux topics:
+
+- Files and directories
+- Permissions
+- Processes
